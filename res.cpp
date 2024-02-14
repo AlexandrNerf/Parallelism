@@ -15,7 +15,7 @@ using Numeric = float;
 
 using namespace std;
 
-Numeric arr[10000001];
+Numeric arr[10000000];
 
 
 
